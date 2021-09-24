@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote RPI 3 (7b73765e-70ae-4c18-b280-490286ca59ee)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.hM1rrkFTTW" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-local" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-host" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
