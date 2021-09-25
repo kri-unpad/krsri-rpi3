@@ -129,10 +129,10 @@ fabric.properties
 .idea/**/sonarIssues.xml
 
 # Markdown Navigator plugin
-# https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced
-.idea/**/markdown-navigator.xml
-.idea/**/markdown-navigator-enh.xml
-.idea/**/markdown-navigator/
+# https://plugins.jetbrains.com/plugin/7896-markdown-Navigator-enhanced
+.idea/**/markdown-Navigator.xml
+.idea/**/markdown-Navigator-enh.xml
+.idea/**/markdown-Navigator/
 
 # Cache file creation bug
 # See https://youtrack.jetbrains.com/issue/JBR-2257

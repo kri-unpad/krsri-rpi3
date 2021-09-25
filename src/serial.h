@@ -6,8 +6,9 @@ public:
   Serial(const char *dev, int baudRate);
   ~Serial();
   [[nodiscard]] int fd() const;
-  void write(const char *message) const;
-  void writef(const char *format, ...) const;
+  void print(const char *message) const;
+  void printf(const char *format, ...) const;
+  [[nodiscard]] std::string readln() const;
   void flush() const;
 
 private:

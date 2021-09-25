@@ -3,7 +3,7 @@
 #include <cmath>
 #include <sstream>
 #include "hmc5883l.h"
-#include "../vector3.h"
+#include "vector3.h"
 
 namespace hmc5883l {
 
