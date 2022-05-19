@@ -1,3 +1,5 @@
+.toolchains/
+build/
 
 # Created by https://www.toptal.com/developers/gitignore/api/clion,visualstudiocode,cmake,c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=clion,visualstudiocode,cmake,c++

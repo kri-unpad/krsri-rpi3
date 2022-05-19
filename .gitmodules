@@ -1,3 +1,7 @@
 [submodule "external/sse2neon"]
 	path = external/sse2neon
 	url = https://github.com/DLTcollab/sse2neon
+  branch = master
+[submodule "external/WiringPi"]
+	path = external/WiringPi
+	url = https://github.com/WiringPi/WiringPi
