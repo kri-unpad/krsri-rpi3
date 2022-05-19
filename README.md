@@ -12,7 +12,7 @@ git submodule update --init
 # Get toolchains
 ./get-toolchains.sh
 
-# Build
+# Build (Cross Compile for RPI3 32 bit)
 mkdir build
 cd build
 cmake \
