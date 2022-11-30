@@ -5,6 +5,7 @@ add_executable(
   serial.h
   # hmc5883l.cpp
   # hmc5883l.h
+  hexapod.h
   vector3.cpp
   vector3.h
   navigator.cpp
