@@ -1,3 +1,5 @@
+// Currently unused
+
 #pragma once
 
 #include <cstdint>

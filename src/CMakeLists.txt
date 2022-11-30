@@ -3,8 +3,8 @@ add_executable(
   main.cpp
   serial.cpp
   serial.h
-  hmc5883l.cpp
-  hmc5883l.h
+  # hmc5883l.cpp
+  # hmc5883l.h
   vector3.cpp
   vector3.h
   navigator.cpp

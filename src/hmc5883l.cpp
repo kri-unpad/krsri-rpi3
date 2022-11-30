@@ -1,3 +1,5 @@
+// Currently unused
+
 #include <wiringPiI2C.h>
 #include <thread>
 #include <cmath>
